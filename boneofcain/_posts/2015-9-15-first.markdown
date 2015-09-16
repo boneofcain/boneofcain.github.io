@@ -6,4 +6,6 @@ categories: childhood
 tags:
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
-I'm writing all these stories down so no one can ever get them wrong. 
+I'm writing all these stories down so no one can ever get them wrong.
+
+I wasn't actually whittled from the bone of cain. My stepmom used to tell me that I hatched from a rotten egg. 
