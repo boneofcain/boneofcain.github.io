@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "first"
+date:   2015-9-15 14:34:25
+categories: childhood
+tags:
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+---
+I'm writing all these stories down so no one can ever get them wrong. 
