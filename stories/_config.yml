@@ -1,0 +1,17 @@
+# Site settings
+title: bone of cain
+header-img:
+email:
+description: "my life stories"
+baseurl: ""
+url: "http://boneofcain.com"
+twitter_username:
+github_username:
+facebook_username:
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
